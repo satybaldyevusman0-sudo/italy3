@@ -1,0 +1,1797 @@
+[
+ {
+  "id": 1,
+  "slug": "bologna",
+  "name": "Болонья университети",
+  "nameIt": "Università di Bologna",
+  "city": "Болонья",
+  "region": "Эмилия-Романья",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1088,
+  "students": 90000,
+  "intlStudents": 7000,
+  "qsRank": 133,
+  "tuitionMin": 0,
+  "tuitionMax": 3500,
+  "price": 45000,
+  "currency": "сом",
+  "livingCost": 750,
+  "rating": 4.9,
+  "fields": [
+   "economics",
+   "law",
+   "medicine",
+   "humanities",
+   "engineering"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_-_Piazza_Maggiore.jpg?width=900",
+  "highlights": [
+   "Дүйнөдөгү эң байыркы университет (1088)",
+   "Англис тилинде 90+ программа",
+   "5 шаарда кампус",
+   "ER.GO стипендиясы — окуу акысыз + жатакана"
+  ],
+  "description": "Болонья университети — дүйнөдөгү эң байыркы, үзгүлтүксүз иштеп келе жаткан университет. Ал 1088-жылы негизделген жана «Alma Mater Studiorum» — «Илимдердин эне-мекени» деп аталат.\n\nУниверситеттин Болонья, Чезена, Форли, Равенна жана Римини шаарларында кампустары бар. Англис тилинде 90дон ашык программа окутулат. Шаар студенттик шаар катары белгилүү: калктын ар бир төртүнчүсү — студент.\n\nБолонья шаарында студенттин айлык чыгымы орточо €750 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 27,
+  "createdAt": "2026-02-11"
+ },
+ {
+  "id": 2,
+  "slug": "polimi",
+  "name": "Милан политехникалык университети",
+  "nameIt": "Politecnico di Milano",
+  "city": "Милан",
+  "region": "Ломбардия",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1863,
+  "students": 47000,
+  "intlStudents": 7500,
+  "qsRank": 111,
+  "tuitionMin": 160,
+  "tuitionMax": 3900,
+  "price": 55000,
+  "currency": "сом",
+  "livingCost": 900,
+  "rating": 4.9,
+  "fields": [
+   "engineering",
+   "architecture",
+   "design"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Politecnico_di_Milano.jpg?width=900",
+  "highlights": [
+   "QS дизайн/архитектура боюнча топ-10",
+   "Магистратура толугу менен англисче",
+   "Индустрия менен тыгыз байланыш",
+   "DSU Lombardia стипендиясы"
+  ],
+  "description": "Милан политехникасы — Италиядагы эң мыкты техникалык университет. Инженерия, архитектура жана дизайн боюнча дүйнөлүк рейтингдерде алдыңкы ондукка кирет.\n\nУниверситет Леонардо жана Бовиза кампустарында жайгашкан. Магистратуранын көпчүлүк программалары англис тилинде окутулат. Бүтүрүүчүлөр Pirelli, Ferrari, Siemens сыяктуу компанияларда иштешет.\n\nМилан шаарында студенттин айлык чыгымы орточо €900 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Архитектура",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "architecture"
+   },
+   {
+    "title": "Архитектура жана шаар куруу",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "architecture"
+   },
+   {
+    "title": "Интерьер дизайны",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "design"
+   },
+   {
+    "title": "Өнөр жай дизайны",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "design"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 34,
+  "createdAt": "2026-03-12"
+ },
+ {
+  "id": 3,
+  "slug": "sapienza",
+  "name": "Рим Сапиенца университети",
+  "nameIt": "Sapienza Università di Roma",
+  "city": "Рим",
+  "region": "Лацио",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1303,
+  "students": 110000,
+  "intlStudents": 8000,
+  "qsRank": 128,
+  "tuitionMin": 0,
+  "tuitionMax": 2900,
+  "price": 45000,
+  "currency": "сом",
+  "livingCost": 750,
+  "rating": 4.8,
+  "fields": [
+   "medicine",
+   "humanities",
+   "engineering",
+   "law",
+   "science"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg?width=900",
+  "highlights": [
+   "Классикалык илимдер боюнча дүйнөдө №1",
+   "110 000+ студент",
+   "Англисче медицина программасы",
+   "LazioDisco стипендиясы"
+  ],
+  "description": "Сапиенца — Европадагы эң чоң университеттердин бири. 1303-жылы Рим папасы Бонифаций VIII тарабынан негизделген. Классикалык илимдер жана археология боюнча дүйнөдө №1.\n\nНегизги кампус — Città Universitaria — Рим борборуна жакын. Англис тилинде медицина (MEDICINE AND SURGERY), инженерия, маалымат илимдери боюнча программалар бар.\n\nРим шаарында студенттин айлык чыгымы орточо €750 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 41,
+  "createdAt": "2026-04-13"
+ },
+ {
+  "id": 4,
+  "slug": "padova",
+  "name": "Падуя университети",
+  "nameIt": "Università degli Studi di Padova",
+  "city": "Падуя",
+  "region": "Венето",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1222,
+  "students": 65000,
+  "intlStudents": 5000,
+  "qsRank": 219,
+  "tuitionMin": 0,
+  "tuitionMax": 2700,
+  "price": 40000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.8,
+  "fields": [
+   "medicine",
+   "science",
+   "engineering",
+   "humanities",
+   "economics"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_del_Bo_Padova.jpg?width=900",
+  "highlights": [
+   "Галилей сабак берген",
+   "Дүйнөдөгү биринчи анатомиялык театр",
+   "Падуя шаарында жашоо арзаныраак",
+   "ESU Padova стипендиясы"
+  ],
+  "description": "Падуя университети 1222-жылы негизделген. Бул жерде Галилео Галилей сабак берген, ал эми 1678-жылы Елена Корнаро дүйнөдөгү биринчи диплом алган аял болгон.\n\nДүйнөдөгү эң биринчи анатомиялык театр (1595) Палаццо дель Бо имаратында сакталган. Медицина жана психология боюнча англисче программалар популярдуу.\n\nПадуя шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 48,
+  "createdAt": "2026-05-14"
+ },
+ {
+  "id": 5,
+  "slug": "polito",
+  "name": "Турин политехникалык университети",
+  "nameIt": "Politecnico di Torino",
+  "city": "Турин",
+  "region": "Пьемонт",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1859,
+  "students": 37000,
+  "intlStudents": 6000,
+  "qsRank": 242,
+  "tuitionMin": 0,
+  "tuitionMax": 2600,
+  "price": 50000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.7,
+  "fields": [
+   "engineering",
+   "architecture",
+   "design"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Politecnico_di_Torino.jpg?width=900",
+  "highlights": [
+   "Автомобиль инженериясы боюнча мыкты",
+   "TIL онлайн тест аркылуу кабыл алуу",
+   "Туринде жашоо Миланга караганда арзан",
+   "EDISU Piemonte стипендиясы"
+  ],
+  "description": "Турин политехникасы — автомобиль, аэрокосмос жана механика инженериясы боюнча Европанын алдыңкы мектептеринин бири. FIAT, Stellantis, Lavazza менен тыгыз кызматташат.\n\nБакалавриаттын бир нече программасы, магистратуранын көпчүлүгү англисче. Кабыл алуу TIL онлайн тести аркылуу жүрөт.\n\nТурин шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Архитектура",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "architecture"
+   },
+   {
+    "title": "Архитектура жана шаар куруу",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "architecture"
+   },
+   {
+    "title": "Интерьер дизайны",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "design"
+   },
+   {
+    "title": "Өнөр жай дизайны",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "design"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 25,
+  "createdAt": "2026-06-15"
+ },
+ {
+  "id": 6,
+  "slug": "unimi",
+  "name": "Милан мамлекеттик университети",
+  "nameIt": "Università degli Studi di Milano",
+  "city": "Милан",
+  "region": "Ломбардия",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1924,
+  "students": 60000,
+  "intlStudents": 4000,
+  "qsRank": 276,
+  "tuitionMin": 150,
+  "tuitionMax": 4000,
+  "price": 45000,
+  "currency": "сом",
+  "livingCost": 900,
+  "rating": 4.6,
+  "fields": [
+   "medicine",
+   "science",
+   "law",
+   "humanities",
+   "economics"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca'_Granda_Milano.jpg?width=900",
+  "highlights": [
+   "LERU лигасынын жалгыз италиялык мүчөсү",
+   "Тарыхый Ca' Granda кампусу",
+   "Медицина жана фармацевтика",
+   "DSU Lombardia стипендиясы"
+  ],
+  "description": "Милан мамлекеттик университети (La Statale) — Ломбардиядагы эң чоң көп тармактуу университет. Тарыхый Ca' Granda имаратында жайгашкан.\n\nLERU (Европанын изилдөөчү университеттер лигасы) мүчөсү. Медицина, фармацевтика, саясат таануу боюнча англисче программалар бар.\n\nМилан шаарында студенттин айлык чыгымы орточо €900 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 32,
+  "createdAt": "2026-07-16"
+ },
+ {
+  "id": 7,
+  "slug": "bocconi",
+  "name": "Боккони университети",
+  "nameIt": "Università Commerciale Luigi Bocconi",
+  "city": "Милан",
+  "region": "Ломбардия",
+  "type": "private",
+  "typeKg": "Жеке",
+  "founded": 1902,
+  "students": 15000,
+  "intlStudents": 3500,
+  "qsRank": null,
+  "tuitionMin": 14000,
+  "tuitionMax": 16000,
+  "price": 75000,
+  "currency": "сом",
+  "livingCost": 900,
+  "rating": 4.9,
+  "fields": [
+   "economics",
+   "law"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Università_Bocconi_Milano.jpg?width=900",
+  "highlights": [
+   "Бизнес жана экономика боюнча топ-10",
+   "Bocconi Merit Award — 100% стипендия",
+   "Бүтүрүүчүлөрдүн 95%и 1 жылда жумушка орношот",
+   "Англисче программалар"
+  ],
+  "description": "Боккони — Европадагы эң престиждүү экономика жана бизнес университеттеринин бири. QS рейтингинде экономика жана менеджмент боюнча дүйнөлүк топ-10го кирет.\n\nЖеке университет болгондуктан окуу акысы жогору, бирок Bocconi Merit Awards жана ISU Bocconi стипендиялары 100% чейин жеңилдик берет. Кабыл алуу SAT же Bocconi онлайн тести аркылуу.\n\nМилан шаарында студенттин айлык чыгымы орточо €900 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 39,
+  "createdAt": "2026-08-17"
+ },
+ {
+  "id": 8,
+  "slug": "pisa",
+  "name": "Пиза университети",
+  "nameIt": "Università di Pisa",
+  "city": "Пиза",
+  "region": "Тоскана",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1343,
+  "students": 45000,
+  "intlStudents": 2500,
+  "qsRank": 376,
+  "tuitionMin": 0,
+  "tuitionMax": 2400,
+  "price": 40000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.6,
+  "fields": [
+   "science",
+   "engineering",
+   "medicine",
+   "humanities"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Leaning_Tower_of_Pisa_SB.jpeg?width=900",
+  "highlights": [
+   "Италиядагы биринчи информатика факультети",
+   "Галилейдин университети",
+   "Коопсуз студенттик шаар",
+   "DSU Toscana стипендиясы"
+  ],
+  "description": "Пиза университети 1343-жылы негизделген. Галилео Галилей ушул жерде окуган жана сабак берген. Компьютердик илимдер боюнча Италиядагы биринчи факультет ушул жерде ачылган.\n\nПиза — кичинекей, коопсуз жана студенттик шаар. Scuola Normale жана Sant'Anna мектептери менен бирге күчтүү илимий чөйрө түзөт.\n\nПиза шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 46,
+  "createdAt": "2026-09-18"
+ },
+ {
+  "id": 9,
+  "slug": "firenze",
+  "name": "Флоренция университети",
+  "nameIt": "Università degli Studi di Firenze",
+  "city": "Флоренция",
+  "region": "Тоскана",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1321,
+  "students": 50000,
+  "intlStudents": 3000,
+  "qsRank": 358,
+  "tuitionMin": 0,
+  "tuitionMax": 2800,
+  "price": 40000,
+  "currency": "сом",
+  "livingCost": 750,
+  "rating": 4.5,
+  "fields": [
+   "architecture",
+   "humanities",
+   "science",
+   "economics",
+   "medicine"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Florence_Duomo_from_Michelangelo_hill.jpg?width=900",
+  "highlights": [
+   "Кайра жаралуу доорунун шаары",
+   "Архитектура жана искусство",
+   "Музейлерге студенттик жеңилдик",
+   "DSU Toscana стипендиясы"
+  ],
+  "description": "Флоренция университетинин тамыры 1321-жылы түзүлгөн Studium Generale'ге барып такалат. Кайра жаралуу доорунун борборунда окуу — искусство жана архитектура сүйгөндөр үчүн эң сонун тандоо.\n\nАрхитектура, искусство таануу жана айыл чарба илимдери өзгөчө күчтүү. Англисче магистратура программалары жыл сайын көбөйүүдө.\n\nФлоренция шаарында студенттин айлык чыгымы орточо €750 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Архитектура",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "architecture"
+   },
+   {
+    "title": "Архитектура жана шаар куруу",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "architecture"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 23,
+  "createdAt": "2026-01-10"
+ },
+ {
+  "id": 10,
+  "slug": "napoli",
+  "name": "Неаполь Федерико II университети",
+  "nameIt": "Università degli Studi di Napoli Federico II",
+  "city": "Неаполь",
+  "region": "Кампания",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1224,
+  "students": 75000,
+  "intlStudents": 1500,
+  "qsRank": 335,
+  "tuitionMin": 0,
+  "tuitionMax": 3000,
+  "price": 38000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.4,
+  "fields": [
+   "engineering",
+   "medicine",
+   "science",
+   "law",
+   "economics"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Napoli_-_Università_Federico_II.jpg?width=900",
+  "highlights": [
+   "Дүйнөдөгү эң байыркы мамлекеттик университет",
+   "Apple Developer Academy",
+   "Жашоо арзан",
+   "ADISURC стипендиясы"
+  ],
+  "description": "1224-жылы император Фридрих II негиздеген дүйнөдөгү эң байыркы мамлекеттик (светтик) университет. Apple Developer Academy Европадагы биринчи жолу ушул жерде ачылган.\n\nНеаполь — Италиядагы эң арзан чоң шаарлардын бири. Инженерия жана информатика боюнча англисче программалар бар.\n\nНеаполь шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 30,
+  "createdAt": "2026-02-11"
+ },
+ {
+  "id": 11,
+  "slug": "unito",
+  "name": "Турин университети",
+  "nameIt": "Università degli Studi di Torino",
+  "city": "Турин",
+  "region": "Пьемонт",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1404,
+  "students": 80000,
+  "intlStudents": 4000,
+  "qsRank": 380,
+  "tuitionMin": 0,
+  "tuitionMax": 2700,
+  "price": 40000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.5,
+  "fields": [
+   "economics",
+   "law",
+   "medicine",
+   "humanities",
+   "science"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mole_Antonelliana_Torino.jpg?width=900",
+  "highlights": [
+   "Англисче медицина MedInTo",
+   "Альп тоолоруна жакын",
+   "Чоң эл аралык жамаат",
+   "EDISU Piemonte стипендиясы"
+  ],
+  "description": "Турин университети 1404-жылы негизделген, Италиянын эң чоң университеттеринин бири. Экономика, саясат жана медицина боюнча англисче программалар бар.\n\nМедицина англисче (MedInTo) программасы IMAT аркылуу кабыл алат. Шаар Альп тоолоруна жакын — кыргызстандыктарга климаты тааныш.\n\nТурин шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 37,
+  "createdAt": "2026-03-12"
+ },
+ {
+  "id": 12,
+  "slug": "trento",
+  "name": "Тренто университети",
+  "nameIt": "Università di Trento",
+  "city": "Тренто",
+  "region": "Трентино-Альто-Адидже",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1962,
+  "students": 16000,
+  "intlStudents": 1500,
+  "qsRank": null,
+  "tuitionMin": 0,
+  "tuitionMax": 2800,
+  "price": 42000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.7,
+  "fields": [
+   "science",
+   "engineering",
+   "economics",
+   "law"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trento_Piazza_Duomo.jpg?width=900",
+  "highlights": [
+   "CENSIS рейтингинде №1 орто университет",
+   "Жашоо сапаты эң жогорку шаар",
+   "Кичинекей топтор",
+   "Opera Universitaria стипендиясы"
+  ],
+  "description": "Тренто — жаш, бирок Италиянын улуттук рейтингдеринде (CENSIS) дайыма биринчи орундардагы орто университет. Кичинекей топтор, мугалимдер менен жакын мамиле.\n\nШаар Италиянын жашоо сапаты боюнча эң жогорку шаарлардын катарында. Информатика, когнитивдик илимдер жана экономика боюнча англисче программалар.\n\nТренто шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 44,
+  "createdAt": "2026-04-13"
+ },
+ {
+  "id": 13,
+  "slug": "pavia",
+  "name": "Павия университети",
+  "nameIt": "Università di Pavia",
+  "city": "Павия",
+  "region": "Ломбардия",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1361,
+  "students": 24000,
+  "intlStudents": 2500,
+  "qsRank": null,
+  "tuitionMin": 0,
+  "tuitionMax": 4000,
+  "price": 42000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.6,
+  "fields": [
+   "medicine",
+   "science",
+   "engineering",
+   "economics"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pavia_Università.jpg?width=900",
+  "highlights": [
+   "Англисче медицина Harvey",
+   "Колледж системасы",
+   "Миланга 30 мүнөт",
+   "EDiSU Pavia стипендиясы"
+  ],
+  "description": "Павия университети 1361-жылы негизделген. Коллеждик система (Оксфорддой) менен белгилүү. Англисче медицина «Harvey» программасы абдан популярдуу.\n\nПавия Миланга 30 мүнөттүк аралыкта, бирок турак жай андан эки эсе арзан. Кыргызстандык студенттер көп окуйт.\n\nПавия шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 21,
+  "createdAt": "2026-05-14"
+ },
+ {
+  "id": 14,
+  "slug": "genova",
+  "name": "Генуя университети",
+  "nameIt": "Università di Genova",
+  "city": "Генуя",
+  "region": "Лигурия",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1481,
+  "students": 31000,
+  "intlStudents": 2000,
+  "qsRank": null,
+  "tuitionMin": 0,
+  "tuitionMax": 3000,
+  "price": 38000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.3,
+  "fields": [
+   "engineering",
+   "medicine",
+   "science",
+   "economics"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Genova_Porto_Antico.jpg?width=900",
+  "highlights": [
+   "Деңиз жээгиндеги шаар",
+   "Робототехника жана IIT",
+   "Деңиз инженериясы",
+   "ALiSEO стипендиясы"
+  ],
+  "description": "Генуя университети — деңиз жээгиндеги тарыхый университет. Деңиз инженериясы, робототехника жана медицина боюнча белгилүү.\n\nИталиянын Технологиялар институту (IIT) менен кызматташып, робототехника боюнча Европада алдыңкы борборлордун бири болуп эсептелет.\n\nГенуя шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Компьютердик инженерия",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "engineering"
+   },
+   {
+    "title": "Механикалык инженерия",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "engineering"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 28,
+  "createdAt": "2026-06-15"
+ },
+ {
+  "id": 15,
+  "slug": "cafoscari",
+  "name": "Венеция Ка' Фоскари университети",
+  "nameIt": "Università Ca' Foscari Venezia",
+  "city": "Венеция",
+  "region": "Венето",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1868,
+  "students": 23000,
+  "intlStudents": 2500,
+  "qsRank": null,
+  "tuitionMin": 0,
+  "tuitionMax": 2800,
+  "price": 42000,
+  "currency": "сом",
+  "livingCost": 900,
+  "rating": 4.6,
+  "fields": [
+   "economics",
+   "humanities"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca'_Foscari_Venezia.jpg?width=900",
+  "highlights": [
+   "Чоң каналдагы сарай-кампус",
+   "Италиядагы биринчи бизнес мектеби",
+   "Чыгыш тилдери",
+   "ESU Venezia стипендиясы"
+  ],
+  "description": "Ка' Фоскари — Венециянын борборундагы, Чоң канал жээгиндеги сарайда жайгашкан университет. Италиядагы биринчи бизнес мектеби 1868-жылы ушул жерде ачылган.\n\nЧыгыш тилдери (анын ичинде орус, кытай, япон тилдери), экономика жана туризм менеджменти боюнча күчтүү. Англисче программалар бар.\n\nВенеция шаарында студенттин айлык чыгымы орточо €900 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 35,
+  "createdAt": "2026-07-16"
+ },
+ {
+  "id": 16,
+  "slug": "siena",
+  "name": "Сиена университети",
+  "nameIt": "Università di Siena",
+  "city": "Сиена",
+  "region": "Тоскана",
+  "type": "state",
+  "typeKg": "Мамлекеттик",
+  "founded": 1240,
+  "students": 17000,
+  "intlStudents": 1500,
+  "qsRank": null,
+  "tuitionMin": 0,
+  "tuitionMax": 2300,
+  "price": 38000,
+  "currency": "сом",
+  "livingCost": 650,
+  "rating": 4.5,
+  "fields": [
+   "medicine",
+   "economics",
+   "science",
+   "humanities"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siena_Piazza_del_Campo.jpg?width=900",
+  "highlights": [
+   "Орто кылымдык коопсуз шаар",
+   "Биотехнология жана фармация",
+   "Чет элдиктерге жеңилдиктер",
+   "DSU Toscana стипендиясы"
+  ],
+  "description": "Сиена университети 1240-жылы негизделген. Кичинекей орто кылымдык шаарда тынч окуу шарттары. Фармация, биотехнология жана экономика күчтүү.\n\nЧет элдик студенттерге 100% чейин окуу акысынан бошотуу жана DSU Toscana стипендиясы берилет. Жашоо Флоренциядан арзан.\n\nСиена шаарында студенттин айлык чыгымы орточо €650 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Маалымат илими (Data Science)",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "science"
+   },
+   {
+    "title": "Биотехнология",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "science"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 42,
+  "createdAt": "2026-08-17"
+ },
+ {
+  "id": 17,
+  "slug": "cattolica",
+  "name": "Католик университети (Ыйык Жүрөк)",
+  "nameIt": "Università Cattolica del Sacro Cuore",
+  "city": "Милан",
+  "region": "Ломбардия",
+  "type": "private",
+  "typeKg": "Жеке",
+  "founded": 1921,
+  "students": 42000,
+  "intlStudents": 2000,
+  "qsRank": null,
+  "tuitionMin": 4000,
+  "tuitionMax": 9000,
+  "price": 65000,
+  "currency": "сом",
+  "livingCost": 900,
+  "rating": 4.5,
+  "fields": [
+   "economics",
+   "medicine",
+   "law",
+   "humanities"
+  ],
+  "languages": [
+   "EN",
+   "IT"
+  ],
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Basilica_di_Sant'Ambrogio_Milano.jpg?width=900",
+  "highlights": [
+   "Европадагы эң чоң жеке университет",
+   "Gemelli клиникасы",
+   "5 шаарда кампус",
+   "Кирешеге жараша акы"
+  ],
+  "description": "Европадагы эң чоң жеке католик университети. Миланда, Римде, Брешада, Пьяченцада жана Кремонада кампустары бар. Римдеги Gemelli клиникасы — Италиянын эң чоң ооруканаларынын бири.\n\nОкуу акысы үй-бүлөнүн кирешесине жараша. Ар кандай динге жана улутка ачык. Экономика, медицина жана маалымат каражаттары боюнча англисче программалар.\n\nМилан шаарында студенттин айлык чыгымы орточо €900 (турак жай, тамак, транспорт). Мамлекеттик университеттерде окуу акысы үй-бүлөнүн кирешесине (ISEE) жараша эсептелет, ошондуктан кыргызстандык студенттер көбүнчө минималдуу акы төлөшөт же толук бошотулушат. Биздин команда документтерди даярдоодон, Universitaly порталында катталуудан, виза алуудан баштап, Италияда турак жай табууга чейин жардам берет.",
+  "programs": [
+   {
+    "title": "Экономика жана менеджмент",
+    "level": "Бакалавр",
+    "lang": "EN",
+    "years": 3,
+    "field": "economics"
+   },
+   {
+    "title": "Финансы",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "economics"
+   },
+   {
+    "title": "Медицина жана хирургия (IMAT)",
+    "level": "Бир циклдүү",
+    "lang": "EN",
+    "years": 6,
+    "field": "medicine"
+   },
+   {
+    "title": "Фармация",
+    "level": "Бир циклдүү",
+    "lang": "IT",
+    "years": 5,
+    "field": "medicine"
+   },
+   {
+    "title": "Эл аралык укук",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "law"
+   },
+   {
+    "title": "Тарых жана искусство",
+    "level": "Бакалавр",
+    "lang": "IT",
+    "years": 3,
+    "field": "humanities"
+   },
+   {
+    "title": "Эл аралык мамилелер",
+    "level": "Магистр",
+    "lang": "EN",
+    "years": 2,
+    "field": "humanities"
+   }
+  ],
+  "deadline": "Март — Май (non-EU квота)",
+  "intake": "Сентябрь",
+  "requirements": [
+   "Аттестат же диплом (котормосу менен)",
+   "IELTS 6.0+ же TOEFL 80+",
+   "Мотивациялык кат",
+   "2 сунуш кат",
+   "Паспорт",
+   "Портфолио (архитектура/дизайн үчүн)"
+  ],
+  "stock": 49,
+  "createdAt": "2026-09-18"
+ }
+]
